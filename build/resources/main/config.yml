@@ -1,0 +1,15 @@
+ticket:
+  custom-model-data: 200000
+  name: "&a섬 티켓"
+  lore:
+    - "&7개인 섬을 가질 수 있는 티켓"
+
+islands:
+  world: "islands"
+  distance: 1000
+  center:
+    x: 0
+    y: 4
+    z: 0
+  pools:
+    - "island1"

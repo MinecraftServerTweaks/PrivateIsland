@@ -1,0 +1,7 @@
+name: PrivateIsland
+version: '1.0-SNAPSHOT'
+main: io.github.vitelotte.privateIsland.PrivateIsland
+api-version: '1.21'
+prefix: PrivateIsland
+authors: [ 9um4 ]
+description: Individual Island for Everyone
